@@ -1,1 +1,2 @@
 First change from VS Code
+Second change from VS Code
